@@ -73,7 +73,7 @@
 	"autoUptime": {
 		"enable": false,
 		"timeInterval": 180,
-		"url": "",
+		"url": "https://goatbot-v2-fynex.onrender.com",
 		"notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
 	},
 	"autoLoadScripts": {
